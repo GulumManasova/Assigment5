@@ -76,5 +76,6 @@ The project simulates an electronic store where users can:
 - `checkout()`: Finalizes purchase and reduces stock
 
 ## 3. UML Class Diagram
+<img width="509" alt="Image" src="https://github.com/user-attachments/assets/093fd8f6-affc-48ad-8aab-f0ac92d8b1de" />
 
 
