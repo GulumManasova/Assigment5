@@ -78,4 +78,4 @@ The project simulates an electronic store where users can:
 ## 3. UML Class Diagram
 <img width="509" alt="Image" src="https://github.com/user-attachments/assets/093fd8f6-affc-48ad-8aab-f0ac92d8b1de" />
 
-
+<img width="382" alt="Image" src="https://github.com/user-attachments/assets/3f2f3fc9-f042-4dca-a31d-e4fef3a56b83" />
